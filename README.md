@@ -1,5 +1,5 @@
-# A Simple Python Flask app on Cloud Foundry
-This is a simple [Flask](http://flask.pocoo.org/) application that shows how apps on CloudFoundry works.
+# A Simple Python Flask Backend app on Cloud Foundry
+This is a simple backend Flask application that shows how apps on CloudFoundry works.
 
 ## Prerequisites
 Apply for an Cloud Foundry account by signing up for a free trial at  [Pivotal Web Services](http://run.pivotal.io).
